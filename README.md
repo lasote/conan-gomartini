@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [go lib go-martini library](https://github.com/go-martini/martini) 
 
-The packages generated with this **conanfile** can be found in [conan.io](https://conan.io/source/inject/1.0/lasote/stable).
+The packages generated with this **conanfile** can be found in [conan.io](https://conan.io/source/go-martini/1.0/lasote/stable).
 
 ## How to use
 
