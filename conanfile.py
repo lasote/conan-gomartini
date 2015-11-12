@@ -5,6 +5,7 @@ class InjectConan(ConanFile):
     name = "go-martini"
     version = "1.0"
     requires = 'go-inject/1.0@lasote/stable'
+    url="https://github.com/lasote/conan-gomartini"
 
     def source(self):
         self.run("git clone https://github.com/go-martini/martini.git")
